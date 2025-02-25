@@ -65,9 +65,10 @@ I'm a **Fullstack Developer** with a passion for creating beautiful, functional,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihayu&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="170"/>
 </div>
 
-<div align="center">
+<!-- Will re-enable when self hosted -->
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com/?user=kihayu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+</div> -->
 
 <div align="center">
   <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kihayu&theme=tokyo-night&radius=16&hide_border=true" />
